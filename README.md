@@ -6,3 +6,6 @@ Highly divisible triangle number -https://projecteuler.net/problem=12
 
 **p1_multiples_3_or_5.py**
 Multiples of 3 and 5 - https://projecteuler.net/problem=1
+
+**p9_spl_pythagorean_triplet.py**
+Special Pythagorean triplet - https://projecteuler.net/problem=9
